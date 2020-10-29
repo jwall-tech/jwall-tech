@@ -1,20 +1,19 @@
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 # Attroxide
 ## (Just call me James)
 
-## Programmer
+Hey there, I'm James and I code sometimes.
+I am currently working on a roblox game and learning Unity.
+I am at collage studying computer science and hope to go to university after (if things go to plan)
+
+I may post some of my work here for others to use and learn from.
+
+You can reach me via discord for collaborations BigJ#5438
+
+Fun Fact:
+  I have no life
+
+## Things I Know
 
 Query Languages:
 ```
