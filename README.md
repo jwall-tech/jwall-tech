@@ -1,7 +1,4 @@
-### Hi there 👋
 
-<!--
-**attroxide/attroxide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +10,45 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+# Attroxide
+## (Just call me James)
+
+## Programmer
+
+Query Languages:
+```
+  - SQL
+```
+
+Programming Languages:
+```
+  - C#
+  - Python
+  - Java
+```
+
+Scripting Languages
+```
+  - Lua
+  - JavaScript
+```
+
+Game Engines:
+```
+  - Unity
+  - Roblox Studio
+  - Godot
+```
+
+GUI Libraries:
+```
+  - Tkinter (python)
+```
+
+IDE's:
+```
+  - Visual Studio Code
+  - Eclipse
+  - Visual Studio
+```
