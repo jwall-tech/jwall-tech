@@ -4,7 +4,7 @@
 
 Hey there, I'm James and I code sometimes.
 I am currently working on a roblox game and learning Unity.
-I am at collage studying computer science and hope to go to university after (if things go to plan)
+I am soon going to be at collage studying computer science and hope to go to university after (if things go to plan)
 
 I may post some of my work here for others to use and learn from.
 
