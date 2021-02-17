@@ -43,6 +43,7 @@ Game Engines:
 GUI Libraries:
 ```
   - Tkinter (python)
+  - Kivy (python)
 ```
 
 IDE's:
@@ -50,4 +51,6 @@ IDE's:
   - Visual Studio Code
   - Eclipse
   - Visual Studio
+  - PyCharm
+  - Python IDE
 ```
