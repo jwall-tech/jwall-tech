@@ -3,47 +3,44 @@
 ## (Just call me James)
 
 Hey there, I'm James and I code sometimes.
-I am currently working on a roblox game and learning Unity.
-I am soon going to be at collage studying computer science and hope to go to university after (if things go to plan)
 
 I may post some of my work here for others to use and learn from.
 
-You can reach me via discord for collaborations BigJ#5438
+You can reach me via discord JamesLol#1043
 
 Fun Fact:
-  I have no life
+  .
 
-## Things I Know
+## Things I Know (skill rating out of 10 in my opinion)
 
 Query Languages:
 ```
-  - SQL
+  - SQL 4/10
 ```
 
 Programming Languages:
 ```
-  - C#
-  - Python
-  - Java
+  - C# 1/10
+  - Python 8/10
 ```
 
 Scripting Languages
 ```
-  - Lua
-  - JavaScript
+  - Lua 9/10
+  - JavaScript 4/10
 ```
 
 Game Engines:
 ```
-  - Unity
-  - Roblox Studio
-  - Godot
+  - Unity 5/10
+  - Roblox Studio 10/10
+  - Godot 3/10
 ```
 
 GUI Libraries:
 ```
-  - Tkinter (python)
-  - Kivy (python)
+  - Tkinter (python) 4/10
+  - Kivy (python) 4/10
 ```
 
 IDE's:
