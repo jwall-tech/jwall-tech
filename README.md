@@ -22,6 +22,7 @@ Programming Languages:
 ```
   - C# 1/10
   - Python 8/10
+  - Java 3/10
 ```
 
 Scripting Languages
