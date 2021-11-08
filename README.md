@@ -20,20 +20,20 @@ Query Languages:
 
 Programming Languages:
 ```
-  - C# 1/10
-  - Python 8/10
+  - C# 3/10
+  - Python 9/10
   - Java 3/10
 ```
 
 Scripting Languages
 ```
   - Lua 9/10
-  - JavaScript 4/10
+  - JavaScript 3/10
 ```
 
 Game Engines:
 ```
-  - Unity 5/10
+  - Unity 6/10
   - Roblox Studio 10/10
   - Godot 3/10
 ```
