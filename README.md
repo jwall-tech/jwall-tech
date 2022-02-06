@@ -20,9 +20,9 @@ Query Languages:
 
 Programming Languages:
 ```
-  - C# 3/10
+  - C# 6/10
   - Python 9/10
-  - Java 3/10
+  - Java 4/10
 ```
 
 Scripting Languages
