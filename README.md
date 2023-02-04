@@ -15,20 +15,20 @@ Fun Fact:
 
 Query Languages:
 ```
-  - SQL 4/10
+  - SQL 6/10
 ```
 
 Programming Languages:
 ```
-  - C# 6/10
-  - Python 9/10
+  - C# 8/10
+  - Python 10/10
   - Java 4/10
 ```
 
 Scripting Languages
 ```
   - Lua 9/10
-  - JavaScript 3/10
+  - JavaScript 7/10
 ```
 
 Game Engines:
@@ -40,8 +40,16 @@ Game Engines:
 
 GUI Libraries:
 ```
-  - Tkinter (python) 4/10
-  - Kivy (python) 4/10
+  - Tkinter (python) 5/10
+  - Kivy (python) 5/10
+  - VS C# Forms 7/10
+```
+
+Frameworks / Libraries:
+```
+  - React 1/10 (Learning)
+  - .NET 7/10
+  - Blazor 5/10
 ```
 
 IDE's:
